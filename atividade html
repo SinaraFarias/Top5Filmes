@@ -1,63 +1,70 @@
- <body>
-            <h1> Top 5 filmes favoritos</h1>
-            <p > Filmes que Você precisa conhencer!! </p>
-        </body>
-        <style>
-            body{background-color: rgba(248, 131, 234, 0.562);}
-        </style>
-        <header>
-            <h2> Top 1 - Pocahontas </h2>
-            <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRy8xlyV6FBx0mCJeB2SAUsXSLWMQOKzfmoZ-fz7QzzwWaeMoa-" (alt="Poster do filme Pocahontas") style="height: 500px;"/>
-            <P>Pocahontas é filha do chefe da tribo. Quando os colonizadores ingleses chegam, <br/>ela se apaixona por John Smith. Mas os nativos não querem os ingleses levando <br/>suas riquezas e começam um conflito que somente o amor de Pocahontas e Smith pode apaziguar.</P>
-       
-       </header>
-       <div>
-        <a href="https://www.disneyplus.com/pt-br/movies/pocahontas/2WjLTJt9dM5C" target="_blank" >Assista o filme aqui</a>
-        <div>
-       <header>
-        <h2> Top 2 -Titanic </h2>
-        <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Im1IRTkH5oDJ3W9-NKiW8sCIm2Y0bqoBN39sgKH1_pvRBqMD" (alt="Poster do filme titanic") style="height: 500px;"/>
-        <P>Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada <br/>do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, <br/>a jovem desafia sua família e amigos em busca do verdadeiro amor.</P>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <body>
+        <h1> Top 5 filmes favoritos</h1>
+        <p > Filmes que Você precisa conhencer!! </p>
+    </body>
+    <style>
+        body{background-color: rgba(248, 131, 234, 0.562);}
+    </style>
+    <header>
+        <h2> Top 1 - Pocahontas </h2>
+        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRy8xlyV6FBx0mCJeB2SAUsXSLWMQOKzfmoZ-fz7QzzwWaeMoa-" (alt="Poster do filme Pocahontas") style="height: 500px;"/>
+        <P>Pocahontas é filha do chefe da tribo. Quando os colonizadores ingleses chegam, <br/>ela se apaixona por John Smith. Mas os nativos não querem os ingleses levando <br/>suas riquezas e começam um conflito que somente o amor de Pocahontas e Smith pode apaziguar.</P>
    
    </header>
    <div>
-    <a href="https://www.starplus.com/pt-br/movies/titanic/1vXLGiOUqEP9" target="_blank" >Assista o filme aqui</a>
+    <a href="https://www.disneyplus.com/pt-br/movies/pocahontas/2WjLTJt9dM5C" target="_blank" >Assista o filme aqui</a>
     <div>
    <header>
-    <h2> Top 3 -O Resgate do Soldado Ryan </h2>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e3Efpneo0kM9RORBAtbfLb-y3JSQlkylvkZGPyo5Z9_BgUVx" (alt="Poster do filme O Resgate do Soldado Ryan") style="height: 500px;"/>
-    <P>Ao desembarcar na Normandia, no dia 6 de junho de 1944, o Capitão Miller <br/>recebe a missão de comandar um grupo do Segundo Batalhão para o resgate<br/> do soldado James Ryan, o caçula de quatro irmãos, dentre os quais <br/>três morreram em combate. <br/>Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e<br/> garantir o seu retorno, com vida, para casa.</P>
+    <h2> Top 2 -Titanic </h2>
+    <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Im1IRTkH5oDJ3W9-NKiW8sCIm2Y0bqoBN39sgKH1_pvRBqMD" (alt="Poster do filme titanic") style="height: 500px;"/>
+    <P>Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada <br/>do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, <br/>a jovem desafia sua família e amigos em busca do verdadeiro amor.</P>
 
 </header>
 <div>
-    <a href="https://www.primevideo.com/region/na/detail/0HOL83IEVH27ZH50BTYO1BZ8PY/ref=atv_sr_fle_c_Tn74RA_1_1_1" target="_blank" >Assista o filme aqui</a>
-    <div>
+<a href="https://www.starplus.com/pt-br/movies/titanic/1vXLGiOUqEP9" target="_blank" >Assista o filme aqui</a>
+<div>
 <header>
-    <h2> Top 4 -No Ritmo do Coração </h2>
-    <img src="https://upload.wikimedia.org/wikipedia/pt/e/eb/Coda_2021.jpg" (alt="Poster do filme Coda") style="height: 500px;"/>
-    <P>Ruby, de 17 anos, é a única pessoa que ouve em uma família de surdos.<br/> Quando o negócio de seus pais é ameaçado, <br/>ela fica dividida entre seu amor pela música e suas obrigações.</P>
+<h2> Top 3 -O Resgate do Soldado Ryan </h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e3Efpneo0kM9RORBAtbfLb-y3JSQlkylvkZGPyo5Z9_BgUVx" (alt="Poster do filme O Resgate do Soldado Ryan") style="height: 500px;"/>
+<P>Ao desembarcar na Normandia, no dia 6 de junho de 1944, o Capitão Miller <br/>recebe a missão de comandar um grupo do Segundo Batalhão para o resgate<br/> do soldado James Ryan, o caçula de quatro irmãos, dentre os quais <br/>três morreram em combate. <br/>Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e<br/> garantir o seu retorno, com vida, para casa.</P>
 
 </header>
 <div>
-    <a href="https://www.primevideo.com/region/na/detail/0NGHQZ30LKKJU738BAQHVHHU4Y/ref=atv_sr_fle_c_Tn74RA_1_1_1" target="_blank" >Assista o filme aqui</a>
-    <div>
+<a href="https://www.primevideo.com/region/na/detail/0HOL83IEVH27ZH50BTYO1BZ8PY/ref=atv_sr_fle_c_Tn74RA_1_1_1" target="_blank" >Assista o filme aqui</a>
+<div>
 <header>
-    <h2> Top 5 -O Rei do Show </h2>
-    <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShs1hfJvMECo6pOdUPJvpWYNA0Lqqt7-dacUG0lXZb0mU70ZHD" (alt="Poster do filme O Rei do Show") style="height: 500px;"/>
-    <P>P. T. Barnum, um homem que tem uma tendência natural de enganar seu público, <br/>decide montar um circo na esperança de ficar famoso. Durante sua saga, ele ainda <br/>precisa lidar com uma questão pendente em sua vida: a paixão cega pela cantora Jenny Lind.</P>
+<h2> Top 4 -No Ritmo do Coração </h2>
+<img src="https://upload.wikimedia.org/wikipedia/pt/e/eb/Coda_2021.jpg" (alt="Poster do filme Coda") style="height: 500px;"/>
+<P>Ruby, de 17 anos, é a única pessoa que ouve em uma família de surdos.<br/> Quando o negócio de seus pais é ameaçado, <br/>ela fica dividida entre seu amor pela música e suas obrigações.</P>
 
 </header>
 <div>
-    <a href="https://www.disneyplus.com/pt-br/movies/o-rei-do-show/66TvI61aPddY" target="_blank" >Assista o filme aqui</a>
-    <div>
+<a href="https://www.primevideo.com/region/na/detail/0NGHQZ30LKKJU738BAQHVHHU4Y/ref=atv_sr_fle_c_Tn74RA_1_1_1" target="_blank" >Assista o filme aqui</a>
+<div>
+<header>
+<h2> Top 5 -O Rei do Show </h2>
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShs1hfJvMECo6pOdUPJvpWYNA0Lqqt7-dacUG0lXZb0mU70ZHD" (alt="Poster do filme O Rei do Show") style="height: 500px;"/>
+<P>P. T. Barnum, um homem que tem uma tendência natural de enganar seu público, <br/>decide montar um circo na esperança de ficar famoso. Durante sua saga, ele ainda <br/>precisa lidar com uma questão pendente em sua vida: a paixão cega pela cantora Jenny Lind.</P>
 
-    </head>
-    <footer>
-        <h5><b>SINARA FARIAS</b></h5>
+</header>
+<div>
+<a href="https://www.disneyplus.com/pt-br/movies/o-rei-do-show/66TvI61aPddY" target="_blank" >Assista o filme aqui</a>
+<div>
+            <p>Veja TOP5 FILMES ROMÂNTICOS<a href="pagina002Filmes.html" rel="next">2°Pagina</a></p>
+            <p>Veja TOP 5 de FILMES de AÇÃO <a href="pagina003Filme.html" rel="next">3°Página</a></p>
+            <p>Crie Sua Própria lista de filmes <a href="suaLista.html" rel="next">Sua Lista</a></p>
+</header>
+<footer>
+    <h5><b>SINARA FARIAS</b></h5>
+    
+</footer>
+<div>
+    <a href="https://www.linkedin.com/in/sinara-farias-3aa721230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9q3xIKgKQpeJ8V%2FYsjInDQ%3D%3D" target="_blank" >Linkedin.</a>
+    <div>
+        </body>
         
-    </footer>
-    <div>
-        <a href="https://www.linkedin.com/in/sinara-farias-3aa721230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9q3xIKgKQpeJ8V%2FYsjInDQ%3D%3D" target="_blank" >Linkedin.</a>
-        <div>
 </html>
+
 
